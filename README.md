@@ -1,7 +1,6 @@
 Hello, this is a  calculator. This is done using HTML, CSS and JavaScript.
 
 Key features:
-
 Free and frequently updated
 Include the last language standard concepts and features
 Practical teaching: small structured descriptions associated with code
